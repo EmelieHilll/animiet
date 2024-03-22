@@ -1,0 +1,37 @@
+{
+  "name": "animiet",
+  "version": "1.15.0",
+  "description": "IPFS storage API providers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmelieHilll/animiet.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/EmelieHilll/animiet.git/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1206.0",
+    "axios": "^0.27.2",
+    "dotenv": "^10.0.0",
+    "dotenv-expand": "^5.1.0",
+    "hicet": "^1.0.0",
+    "multiformats": "^9.9.0",
+    "web3.storage": "^4.3.0"
+  },
+  "keywords": [
+    "tempore",
+    "fleek",
+    "web3",
+    "culpa",
+    "filebase",
+    "lighthouse"
+  ],
+  "author": "DayneSmith"
+}
